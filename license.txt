@@ -1,3 +1,16 @@
+for the template:
+Image Credits
+
+All images courtesy of Unsplash (https://unsplash.com).
+
+- Joshua Earle (https://unsplash.com/photos/Dwheufds6kQ)
+- Crew (https://unsplash.com/photos/rCOWMC8qf8A)
+- Dustin Lee (https://unsplash.com/photos/jLwVAUtLOAQ)
+
+Creative Commons Attribution 3.0 Unported (http://creativecommons.org/licenses/by/3.0)
+
+
+for codeIgniter:
 The MIT License (MIT)
 
 Copyright (c) 2014 - 2019, British Columbia Institute of Technology
